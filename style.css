@@ -558,10 +558,11 @@ footer .social img
 	    color: #818181 ;
 	}
 	.mobile-menu ul li a:after{
-		border-top:none;
+		border-top:none !important;
 	}
 	.mobile-menu ul li a:hover{
 		color: #f1f1f1;
+		border-top:none !important;
 	}
 	.close{
 		display:block;
